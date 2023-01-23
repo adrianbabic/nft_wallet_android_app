@@ -1,2 +1,2 @@
 # nft_wallet_android_app
-Android application 
+This application is the result of group project that was a part of the Illuminative workshop for Android development. The workshop took place in May 2022, during my second year at university. Contributors are: Adrian Babić, Josip Goluža, Borna Šeatović and Zvonimir Žunić. For my colleagues and me, this was the first step inside the world of Android development. We had about a week's worth of courses for learning about Android development after which there was a 36-hour Hackathon competiton where our app won first place. The task of the competition was to create a digital NFT wallet that should be able to manipulate imported NFTs as well as have an integrated camera for capturing new NFTs.
